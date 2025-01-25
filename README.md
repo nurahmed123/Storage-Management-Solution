@@ -1,5 +1,6 @@
 
 
+
 # 📦 **Storage Management Solution**
 
 ![Website Screenshot](https://cloud-iv9iiw0tf-hack-club-bot.vercel.app/0screenshot_2025-01-25_at_6.36.10___pm.png)
@@ -146,13 +147,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ----------
 
-## 📧 **Contact**
-
-If you have any questions or need support, feel free to reach out:
-
-📧 **Email**: [your.email@example.com] _(replace with your email)_  
-🌐 **Website**: [superiordrive.vercel.app](https://superiordrive.vercel.app)
-
-----------
 
 ## 💡 **Transform your storage management with SuperiorDrive. Get started today!**
